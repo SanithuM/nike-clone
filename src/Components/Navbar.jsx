@@ -33,7 +33,7 @@ const Navbar = () => {
           <img src="/swoosh-logo.png" alt="Nike" className="h-10 cursor-pointer" />
         </div>
 
-        {/* Center Links (absolute center) */}
+        {/* Center Links */}
         <ul className="hidden md:flex gap-6 font-medium text-base text-gray-800 absolute left-1/2 -translate-x-1/2">
           <li className="cursor-pointer hover:underline">New</li>
           <li className="cursor-pointer hover:underline">Men</li>
